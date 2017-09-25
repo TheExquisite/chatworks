@@ -1,0 +1,20 @@
+.display-wrapper{
+    color: #9999;
+    height: 92vh;
+}
+
+.input-wrapper{
+    padding-top: 4px;
+    display: inline-block;
+    color: #99ff;
+    height: 5vh;
+}
+
+.input-box{
+    width: 95vw;
+}
+
+.divider{
+    height: 2px;
+    background-color: gray; 
+}
